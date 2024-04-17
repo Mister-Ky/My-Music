@@ -3,4 +3,4 @@
 
  my discord is - mister_ky (and kygechik)
 
- by downloading and using files from the repository, you agree to the LICENSE
+ by downloading and using files from the repository, you agree to the LICENSE  (CC BY-SA 4.0 License)
